@@ -1,4 +1,4 @@
-# CONTENT of THIS REPO: Getting_and_Cleaning_Data_Course_Assignment
+# CONTENTs of THIS REPO: Getting_and_Cleaning_Data_Course_Assignment
 Coursera final peer reviewed assignment for course 3 of Learning R
 
 # Run_analysis.R:
@@ -36,14 +36,14 @@ Step8:
 Label the columns with 'descriptive variable names'.
 
 FINAL:
-Create a tidy data set! Print key and summary accomplishing the goal--
+Create a tidy data set! Print key and summary !!accomplishing the goal!! --
 
 
 
 # tidy_data.txt:
 
-the output from the script run.analysis.r, a tidy dataset.
+the output from the script run.analysis.r, a tidy dataset. --
 
 # key_description_for_tidy_data:
 
-Lists all variable names and a brief description what this variable is
+Lists all variable names and a brief description what this variable is.
