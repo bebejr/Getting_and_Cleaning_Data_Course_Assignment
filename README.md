@@ -13,20 +13,28 @@ Goal: Create a data set with the average of each variable for each activity and 
 
 Step 1:
 Load packages.
+
 Step2:
 Download the file. Put it in the 'Data' folder (this is the working directory in my case).
+
 Step3:
 Unzip the file in the working directory.
+
 Step4:
 The archive put the files in a folder named 'UCI HAR Dataset'. Set this folder as the input path. List the files here.
+
 Step5:
 Read the subject files, then read the the activity files, and finally read the data files.
+
 Step6:
 Merge the training and test sets by concatenating the tables.
+
 Step7:
 Extract the means and SDs.
+
 Step8:
 Label the columns with 'descriptive variable names'.
+
 FINAL:
 Create a tidy data set! Print key and summary accomplishing the goal--
 
